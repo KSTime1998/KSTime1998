@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/rlatmdxo1998/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatmdxo1998)](https://solved.ac/rlatmdxo1998/)
 - 👋 Hi, I’m @KSTime1998
 - 👀 I’m interested in Algorithm
 - 🌱 I’m currently learning C++
